@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AplikasiPerpustakaanClientServer
+</name>
+</assembly>
+<members>
+<member name="P:Aplikasi_Perpustakaan_Client_Server.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan_Client_Server.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan_Client_Server.My.Resources.Resources._1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan_Client_Server.My.Resources.Resources.boy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan_Client_Server.My.Resources.Resources.iconfinder_export_24_46622">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan_Client_Server.My.Resources.Resources.iconfinder_gtk_refresh_29878">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan_Client_Server.My.Resources.Resources.iconfinder_save_delete_60017">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan_Client_Server.My.Resources.Resources.iconfinder_save_edit_84875">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan_Client_Server.My.Resources.Resources.iconfinder_search_4103">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Aplikasi_Perpustakaan_Client_Server.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,24 @@
+C:\Users\kumpu\documents\visual studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\bin\Debug\Aplikasi Perpustakaan Client Server.exe
+C:\Users\kumpu\documents\visual studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\bin\Debug\Aplikasi Perpustakaan Client Server.pdb
+C:\Users\kumpu\documents\visual studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\bin\Debug\Aplikasi Perpustakaan Client Server.xml
+C:\Users\kumpu\documents\visual studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.Resources.resources
+C:\Users\kumpu\documents\visual studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi Perpustakaan Client Server.vbproj.GenerateResource.Cache
+C:\Users\kumpu\documents\visual studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi Perpustakaan Client Server.exe
+C:\Users\kumpu\documents\visual studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi Perpustakaan Client Server.xml
+C:\Users\kumpu\documents\visual studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi Perpustakaan Client Server.pdb
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.LOGIN_form.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.Admin_Form.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\bin\Debug\Aplikasi Perpustakaan Client Server.exe.config
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.Dashboard.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.DataBuku.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi Perpustakaan Client Server.vbprojResolveAssemblyReference.cache
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.DataPengguna.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.DataPeminjaman.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.Pop_up.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.DataPengembalian.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.Pengguna_form.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.User_buku.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.User_Peminjaman.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.User_pengembalian.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.About.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Perpustakaan Client Server\Aplikasi Perpustakaan Client Server\obj\x86\Debug\Aplikasi_Perpustakaan_Client_Server.Laporan.resources

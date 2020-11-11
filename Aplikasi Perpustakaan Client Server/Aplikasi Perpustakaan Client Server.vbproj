@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2A0A16B4-F0F1-4B69-A63C-2EFA61BE414A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Aplikasi_Perpustakaan_Client_Server.My.MyApplication</StartupObject>
+    <RootNamespace>Aplikasi_Perpustakaan_Client_Server</RootNamespace>
+    <AssemblyName>Aplikasi Perpustakaan Client Server</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Aplikasi Perpustakaan Client Server.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Aplikasi Perpustakaan Client Server.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\Downloads\Compressed\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Form.Designer.vb">
+      <DependentUpon>Admin_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="config.vb" />
+    <Compile Include="Dashboard.Designer.vb">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataBuku.Designer.vb">
+      <DependentUpon>DataBuku.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataBuku.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataPeminjaman.Designer.vb">
+      <DependentUpon>DataPeminjaman.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataPeminjaman.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataPengembalian.Designer.vb">
+      <DependentUpon>DataPengembalian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataPengembalian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataPengguna.Designer.vb">
+      <DependentUpon>DataPengguna.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataPengguna.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Laporan.Designer.vb">
+      <DependentUpon>Laporan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Laporan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN_form.Designer.vb">
+      <DependentUpon>LOGIN_form.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Pengguna_form.Designer.vb">
+      <DependentUpon>Pengguna_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pengguna_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pop_up.Designer.vb">
+      <DependentUpon>Pop_up.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pop_up.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_buku.Designer.vb">
+      <DependentUpon>User_buku.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User_buku.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Peminjaman.Designer.vb">
+      <DependentUpon>User_Peminjaman.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User_Peminjaman.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_pengembalian.Designer.vb">
+      <DependentUpon>User_pengembalian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User_pengembalian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Form.resx">
+      <DependentUpon>Admin_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataBuku.resx">
+      <DependentUpon>DataBuku.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataPeminjaman.resx">
+      <DependentUpon>DataPeminjaman.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataPengembalian.resx">
+      <DependentUpon>DataPengembalian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataPengguna.resx">
+      <DependentUpon>DataPengguna.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laporan.resx">
+      <DependentUpon>Laporan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN_form.resx">
+      <DependentUpon>LOGIN_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pengguna_form.resx">
+      <DependentUpon>Pengguna_form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pop_up.resx">
+      <DependentUpon>Pop_up.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_buku.resx">
+      <DependentUpon>User_buku.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Peminjaman.resx">
+      <DependentUpon>User_Peminjaman.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_pengembalian.resx">
+      <DependentUpon>User_pengembalian.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_save_edit_84875.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_save_delete_60017.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_search_4103.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_export-24_46622.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_gtk-refresh_29878.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
